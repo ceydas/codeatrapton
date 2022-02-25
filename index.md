@@ -1,12 +1,8 @@
-## Welcome to GitHub Pages
+# CS 353 Term Project: Coding Platform
 
-You can use the [editor on GitHub](https://github.com/ceydas/codeatrapton/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Team Members
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Ceyda Şahin
 
 ```markdown
 Syntax highlighted code block
@@ -23,7 +19,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](https://ichef.bbci.co.uk/news/640/cpsprodpb/16FA9/production/_92712149_gettyimages-480164327.jpg) and ![Image](https://ichef.bbci.co.uk/news/640/cpsprodpb/16FA9/production/_92712149_gettyimages-480164327.jpg)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
