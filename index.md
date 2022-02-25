@@ -10,5 +10,5 @@
 
 ## Reports
 
-- [Project Proposal](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- [Project Proposal](https://raw.githubusercontent.com/ceydas/codeatrapton/gh-pages/hw2_spring22.pdf)
 
