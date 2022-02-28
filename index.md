@@ -10,5 +10,5 @@
 
 ## Reports
 
-- [Project Proposal](https://raw.githubusercontent.com/ceydas/codeatrapton/gh-pages/hw2_spring22.pdf)
+- [Project Proposal](https://raw.githubusercontent.com/ceydas/codeatrapton/gh-pages/Proposal.pdf)
 
